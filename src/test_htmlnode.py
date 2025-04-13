@@ -1,5 +1,4 @@
 # test_htmlnode.py
-# Test cases for HTMLNode, LeafNode, and ParentNode classes
 import unittest
 
 from htmlnode import HTMLNode, LeafNode, ParentNode
